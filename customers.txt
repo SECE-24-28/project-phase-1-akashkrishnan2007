@@ -1,0 +1,26 @@
+Customer Name : AKASH
+Phone Number  : 936325978
+Room Type     : 2
+Days of Stay  : 2
+
+Customer Name : ANUJ
+Phone Number  : 746938578
+Room Type     : 2
+Days of Stay  : 3
+
+Customer Name : don
+Phone Number  : 9363597992
+Room Type     : 1
+Days of Stay  : 2
+
+
+Customer Name : dhushy
+Phone Number  : 936359792
+Room Type     : 2
+Days of Stay  : 10
+
+Customer Name : 1
+Phone Number  : 1
+Room Type     : 1
+Days of Stay  : 1
+
